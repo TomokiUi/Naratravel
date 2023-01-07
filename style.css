@@ -46,6 +46,12 @@ header ul li:hover {
   cursor: pointer;
 }
 
+iframe {
+  width: 100%;
+  aspect-ratio: 16/9; 
+}
+
+
 
 section.welcome {
   min-height: 500px;
